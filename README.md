@@ -15,3 +15,5 @@ Ex 5: Implement an application that uses multi threading
 Ex 6: Develop a native application that uses GPS location information
 
 Ex 7: Implement an application that writes data to the SD Card
+
+Ex 8: SMS Application
